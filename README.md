@@ -1,4 +1,4 @@
-# 🌀 Project: ESP-Mesh-Singularity
+# 🌀 Project: ESP-Mesh-Singularity (Model self-collapse, perplexity ai)
 
 ![Status](https://img.shields.io/badge/Status-Existential_Crisis-critical)
 ![Model](https://img.shields.io/badge/Model-Perplexity_AI-blue)
